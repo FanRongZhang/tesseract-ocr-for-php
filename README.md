@@ -1,3 +1,7 @@
+# Prepare for this
+
+Install leptonica and tesseract then, here is a example in Chinese lang.(http://www.cnblogs.com/dajianshi/p/4932882.html)
+
 ![Tesseract OCR for PHP logo: A baby elephant sucking letters from a book][0]
 
 # Tesseract OCR for PHP
